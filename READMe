@@ -1,0 +1,23 @@
+You cna umpack a .tar to use following code.
+
+tar -xvf [filename]
+
+
+GIT
+
+you can make git directory by using following code.
+
+git init
+ls -al
+
+ADD:
+
+git add [filename]
+git commit -m "massage"
+
+
+Saving link:
+
+git remote add origin [URL]
+git remote -v
+git push origin master
